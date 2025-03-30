@@ -22,3 +22,14 @@ This project provides an interactive web interface for querying customer stories
 - OpenAI API key
 - Nebius API key
 
+## Install dependencies
+
+```
+pip install streamlit couchbase openai python-dotenv nest_asyncio
+```
+
+## Run the app
+
+```
+streamlit run app.py
+```
